@@ -1,0 +1,19 @@
+.food2 {
+  text-align: center;
+  align-items: center;
+}
+.food1 {
+  display: flex;
+  font-size: 20px;
+  color: coral;
+  flex-direction: row;
+  display: inline-block;
+  top: 100px;
+  flex-wrap: nowrap;
+}
+h1 {
+  color: chocolate;
+}
+body {
+  background-color: aqua;
+}
